@@ -1,2 +1,1 @@
-# bigint-calculator
-Four operations for big integers with javascript (without BigInt function)
+this is a draft. (i think) the solutions are not beautiful.
